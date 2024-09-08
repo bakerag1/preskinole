@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Features on Preskinole - the Prescott Arizona Crokinole Club</title>
+    <link>http://localhost:1313/preskinole/categories/features/</link>
+    <description>Recent content in Features on Preskinole - the Prescott Arizona Crokinole Club</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/preskinole/categories/features/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Preskinole!</title>
+      <link>http://localhost:1313/preskinole/posts/2024-09-08_welcome/</link>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/preskinole/posts/2024-09-08_welcome/</guid>
+      <description>We are the premier Prescott, AZ crokinole club. Founded in 2024 we are more than 3 members strong and have events nearly every other month.</description>
+    </item>
+  </channel>
+</rss>

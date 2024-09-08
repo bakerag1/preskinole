@@ -1,0 +1,26 @@
+baseURL: 'http://bakerag1.github.io/preskinole/'
+languageCode: 'en-us'
+title: 'Preskinole - the Prescott Arizona Crokinole Club'
+theme: triple-hyde
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Params:
+  description: "crokinole club based in Prescott, AZ"
+  coverimage: '/cover.jpeg'
+  logoimage: Preskinole.png
+  themeColor: "theme-base-0b"
+  meta:
+    favicon: false
+
+Menus:
+  main:
+    - Weight: 10
+      Name: Club Calendar
+      Url: /club-calendar
+    - Weight: 20
+      Name: Membership
+      Url: /membership
