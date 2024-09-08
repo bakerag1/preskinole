@@ -1,4 +1,4 @@
-baseURL: 'https://bakerag1.github.io/preskinole/'
+baseURL: 'https://crokinole.orangeru.work'
 languageCode: 'en-us'
 title: 'Preskinole - the Prescott Arizona Crokinole Club'
 theme: triple-hyde
@@ -14,7 +14,7 @@ Params:
   logoimage: Preskinole.png
   themeColor: "theme-base-0b"
   meta:
-    favicon: false
+    favicon: true
 
 Menus:
   main:
