@@ -15,7 +15,6 @@ markup:
 Params:
   description: "crokinole club based in Prescott, AZ"
   coverimage: '/cover.jpeg'
-  logoimage: Preskinole.png
   themeColor: "theme-base-0b"
   meta:
     favicon: true
