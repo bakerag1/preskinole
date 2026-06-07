@@ -24,6 +24,10 @@ Params:
   themeColor: "theme-base-0b"
   eventsCalendar:
     showSubscribeButton: true
+    calendarName: "Preskinole Club Calendar"
+    calendarDescription: "Upcoming Preskinole club nights and tournaments"
+    uidDomain: "preskinole.orangeru.work"
+    prodID: "-//Preskinole//Club Calendar//EN"
   meta:
     favicon: true
 

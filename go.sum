@@ -4,6 +4,10 @@ github.com/orangeru-work/hugo-orangeru-events v0.6.0 h1:S92TtJKRrQ/laZfdvmr7mMaI
 github.com/orangeru-work/hugo-orangeru-events v0.6.0/go.mod h1:b8IEj5V6KltdgJK/bIn2DHZzaUmodcjOhWVlGpBz/yQ=
 github.com/orangeru-work/hugo-orangeru-events v0.7.0 h1:LL0tbZv7NbvM8FAYijizoCn1qHm0o48p57zJV1iEKvA=
 github.com/orangeru-work/hugo-orangeru-events v0.7.0/go.mod h1:b8IEj5V6KltdgJK/bIn2DHZzaUmodcjOhWVlGpBz/yQ=
+github.com/orangeru-work/hugo-orangeru-events v0.7.1-0.20260607021838-50fe70df708c h1:KEuZeZzuxzMi5yvbTg8o8CNjEuafJMf1Szy2Kvd+3jI=
+github.com/orangeru-work/hugo-orangeru-events v0.7.1-0.20260607021838-50fe70df708c/go.mod h1:b8IEj5V6KltdgJK/bIn2DHZzaUmodcjOhWVlGpBz/yQ=
+github.com/orangeru-work/hugo-orangeru-events v0.7.1-0.20260607022042-205a7a3da0f9 h1:IQIPnVIp7GBjaSNhPS1EipNcbqeHMaOrKMcEhJuCRbs=
+github.com/orangeru-work/hugo-orangeru-events v0.7.1-0.20260607022042-205a7a3da0f9/go.mod h1:b8IEj5V6KltdgJK/bIn2DHZzaUmodcjOhWVlGpBz/yQ=
 github.com/orangeru-work/hugo-theme-clubhouse v0.0.0-20260419185941-14956af2e6f1 h1:PYU79aDB2yD3TSUVk8wTVeHDd0mjrzCsB8ES01sk8jQ=
 github.com/orangeru-work/hugo-theme-clubhouse v0.0.0-20260419185941-14956af2e6f1/go.mod h1:uXLH/tNxvRTPAFuJu2RilpbqCrkc/L8C5SlxyeiFGxw=
 github.com/orangeru-work/hugo-theme-clubhouse v0.0.0-20260524184022-8ac338f49a08 h1:YOO65hJw+3T8nUGkaa0Rpns4L+aPHToG3j2W5IRvINk=

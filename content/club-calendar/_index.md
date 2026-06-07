@@ -1,9 +1,11 @@
 ---
 title: Club Calendar
+type: events
 outputs:
   - html
   - calendar
 cascade:
+  type: events
   outputs:
     - html
     - calendar
